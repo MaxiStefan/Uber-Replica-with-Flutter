@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "92095103933",
+    "project_id": "uberreplica-50ff2",
+    "storage_bucket": "uberreplica-50ff2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92095103933:android:bf00fe364bfaa9bb3d48d4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_uber_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92095103933-9f2fkb2pv18s02dgtq6lkiagvls0tjg9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_uber_app",
+            "certificate_hash": "7c76a19bcedf5b93750c5d670d90d103dc7eb253"
+          }
+        },
+        {
+          "client_id": "92095103933-gpcpb8tdnko09sd5b47c0smful7d94vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKoQ5503ScVPn2OepTpnGLEOSsb_P9Hf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92095103933-gpcpb8tdnko09sd5b47c0smful7d94vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
